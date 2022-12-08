@@ -5,3 +5,7 @@
 # Calculadora Switch 
 
 ![Calculadora Switch 2](https://user-images.githubusercontent.com/116478599/206078395-b848fd97-0e48-4b4b-9282-4b4197224d2e.PNG)
+
+# Multiopcion 
+
+![Pseudo Multiopcion](https://user-images.githubusercontent.com/116478599/206354085-382a960f-8db8-4725-a3dc-3679edf55e46.PNG)
