@@ -9,3 +9,7 @@
 # Multiopcion 
 
 ![Pseudo Multiopcion](https://user-images.githubusercontent.com/116478599/206354085-382a960f-8db8-4725-a3dc-3679edf55e46.PNG)
+
+# Practica Miercoles 08/12/2022
+
+![Tabla multiplicar](https://user-images.githubusercontent.com/116478599/206605249-0ec9070a-dd51-4398-b090-dfa278774acd.PNG)
