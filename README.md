@@ -19,3 +19,5 @@
 # Practica del jueves 08/12/2022
 
 ![tabla multiplicar For](https://user-images.githubusercontent.com/116478599/207220047-6da0c362-0d2c-4e9b-b3b9-5889e8302f7e.PNG)
+
+![Ascendente y Descendente For](https://user-images.githubusercontent.com/116478599/207222467-7ef14246-23fb-447a-852a-f5516a23aa94.PNG)
