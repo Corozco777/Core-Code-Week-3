@@ -15,3 +15,7 @@
 ![Tabla multiplicar](https://user-images.githubusercontent.com/116478599/206605249-0ec9070a-dd51-4398-b090-dfa278774acd.PNG)
 
 ![CalculadoraDowhile](https://user-images.githubusercontent.com/116478599/206611840-1a5a11ed-f088-4923-80bc-e6bb39a447c1.PNG)
+
+# Practica del jueves 08/12/2022
+
+![tabla multiplicar For](https://user-images.githubusercontent.com/116478599/207220047-6da0c362-0d2c-4e9b-b3b9-5889e8302f7e.PNG)
